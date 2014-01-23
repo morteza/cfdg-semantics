@@ -6,15 +6,15 @@ A collection of grammars to write lexers, parsers, compilers for various languag
 
 Provided grammars are mostly for domain-specific languages, but some general-purpose grammars are also provided upon *no-use* and *no-where-else-to-publish* rule.
 
-[x] **md-peg:** Markdown grammar and tools in pure Java.
+- [x] **md-peg:** Markdown grammar and tools in pure Java.
 
-[-] **md-antlr4:** Markdown experimental lexer and parser in ANTLR v4.
+- [ ] **md-antlr4:** Markdown experimental lexer and parser in ANTLR v4.
 
-[x] **cfdg:** Parser and lexer for Context-Free Design Grammar (CFDG).
+- [x] **cfdg:** Parser and lexer for Context-Free Design Grammar (CFDG).
 
-[ ] **DLogic:** Descriptive Logic grammer.
+- [ ] **DLogic:** Descriptive Logic grammer.
 
-[ ] The project is work in progress...
+- [ ] This project is a work in progress...
 
 
 ## Parser Generators

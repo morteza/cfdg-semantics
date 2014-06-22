@@ -5,7 +5,7 @@
  *     Project: RatMark
  *   Copyright: See the file "LICENSE" for the full license governing this code.
  *******************************************************************************/
-package com.ratnic.ratmark;
+package com.anytime.anymark;
 
 import org.parboiled.Action;
 import org.parboiled.BaseParser;
